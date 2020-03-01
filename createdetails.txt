@@ -1,0 +1,28 @@
+
+Chasis Number - 759083
+Make Year - 2000
+Model - hgnzamgciwkidz
+Color - Yellow
+Query Timestamp - 2020.02.07.21.30.09.824
+Server Timestamp -"2020.02.07.21.30.12.590"
+
+Chasis Number - 381137
+Make Year - 2007
+Model - jzlnssp
+Color - Olive
+Query Timestamp - 2020.02.07.21.30.12.592
+Server Timestamp -"2020.02.07.21.30.15.977"
+
+Chasis Number - 615046
+Make Year - 2005
+Model - akowyrrwwcod
+Color - Grey
+Query Timestamp - 2020.02.07.21.30.15.980
+Server Timestamp -"2020.02.07.21.30.18.639"
+
+Chasis Number - 225223
+Make Year - 2009
+Model - gippiyrnoh
+Color - Cyan
+Query Timestamp - 2020.02.07.21.30.18.643
+Server Timestamp -"2020.02.07.21.30.21.420"

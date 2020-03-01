@@ -1,0 +1,32 @@
+
+Chasis Number - 837846
+Status - Transferred_to_Dealer
+Dealer - cofwvcjjipnf
+Owner - ktrqhhsjm
+License - 6dqvfif
+Computer Timestamp - 2019.12.22.14.51.00.632
+"2019.12.22.14.51.03.290"
+
+Chasis Number - 520960
+Status - Transferred_to_Dealer
+Dealer - cbjyijqsrxjo
+Owner - tcxmshhbz
+License - ep85p8y
+Computer Timestamp - 2019.12.22.14.51.03.294
+"2019.12.22.14.51.06.015"
+
+Chasis Number - 520960
+Status - Transferred_to_Dealer
+Dealer - wmkfjwbvuhunr
+Owner - zmdvooouk
+License - 2lgptfi
+Computer Timestamp - 2019.12.22.14.51.06.018
+"2019.12.22.14.51.08.812"
+
+Chasis Number - 520960
+Status - Transferred_to_Customer
+Dealer - wbnkwnnxtr
+Owner - flocpv
+License - 2u7n9ni
+Computer Timestamp - 2019.12.22.14.51.08.816
+"2019.12.22.14.51.11.575"
